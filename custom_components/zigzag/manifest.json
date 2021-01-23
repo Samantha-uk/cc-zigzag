@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@samantha-uk"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Samantha-uk/zigzag",
+  "domain": "zigzag",
+  "name": "zigzag",
+  "requirements": []
+}
